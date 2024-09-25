@@ -9,7 +9,7 @@
 % u: Upper bound of the search interval
 % eps: Tolerance level for termination
 
-% @note run 'runGS.m' for sample results 
+% @note run 'runGSS.m' for sample results 
 
 function xstar = goldenSectionSearch(obj, l, u, eps)
   
